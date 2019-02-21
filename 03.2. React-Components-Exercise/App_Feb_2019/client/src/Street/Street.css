@@ -1,0 +1,21 @@
+.streets p {
+  font-size: 22px;
+  border: 2px solid black;
+  padding: 10px;
+  box-sizing: border-box;
+  background: white;
+}
+
+.streets p:hover {
+  border: 2px solid transparent;
+  background: rgb(64, 139, 224);
+  color: white;
+  cursor: pointer;
+}
+
+.street-info{
+  background: white;
+  border: 1px solid black;
+  width: 76%;
+  margin: 15px auto;
+}
